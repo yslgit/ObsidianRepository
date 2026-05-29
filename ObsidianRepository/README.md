@@ -1,7 +1,7 @@
 # ObsidianRepository
 
 #### 介绍
-ObsidianRepository 文件备份,随时可以拉取
+ObsidianRepository 文件备份,随时可以拉取 
 
 #### 软件架构
 软件架构说明
