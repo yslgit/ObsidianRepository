@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0c8fd8af266bb346",
+        "id": "a1fe7e14d012d2d0",
         "type": "tabs",
         "children": [
           {
-            "id": "811fa4e11d00e84c",
+            "id": "1d194b6c32613063",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "ObsidianRepository/README.md",
-                "bFile": "ObsidianRepository/README.md",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: README  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "811fa4e11d00e84c",
+  "active": "1640b809513bf3ac",
   "lastOpenFiles": [
     "README.md",
     "java/欢迎.md",
