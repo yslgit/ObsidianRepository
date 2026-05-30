@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a1fe7e14d012d2d0",
+        "id": "e19b3816914f055e",
         "type": "tabs",
         "children": [
           {
-            "id": "1d194b6c32613063",
+            "id": "30aeffe8b6ac2f7c",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -191,24 +192,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d194b6c32613063",
+  "active": "1640b809513bf3ac",
   "lastOpenFiles": [
+    "cleanup-old-folders.bat",
+    "Z-知识输出/08-个人博客",
+    "Z-知识输出/07-学习心得",
+    "Z-知识输出/06-分享材料",
+    "Z-知识输出/05-技术文章",
+    "Z-知识输出/04-读书笔记",
+    "Z-知识输出/03-每月总结",
+    "Z-知识输出/02-每周总结",
+    "Z-知识输出/01-每日记录",
+    "J-管理与架构思维库/10-商业思维",
+    "J-管理与架构思维库/09-管理思维",
+    "README.md",
+    "java/欢迎.md",
     "ceshi.md",
     "未命名.md",
-    "README.md",
-    "未命名.base",
     "未命名.canvas",
-    "java/欢迎.md",
-    "java/未命名.base",
-    "doctor",
     "未命名 1.canvas",
     "java/未命名.canvas",
     "java/java.md",
-    "java",
-    "未命名 1.md",
-    "未命名 1.base",
-    "未命名 2.base",
-    "未命名 3.base",
-    "未命名 4.base"
+    "未命名 1.md"
   ]
 }
