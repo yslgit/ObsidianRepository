@@ -11,14 +11,13 @@
             "id": "1d194b6c32613063",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-table",
+              "title": "未命名"
             }
           }
         ]
@@ -192,17 +191,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1640b809513bf3ac",
+  "active": "1d194b6c32613063",
   "lastOpenFiles": [
-    "未命名.base",
+    "ceshi.md",
+    "未命名.md",
     "README.md",
+    "未命名.base",
+    "未命名.canvas",
     "java/欢迎.md",
+    "java/未命名.base",
     "doctor",
     "未命名 1.canvas",
-    "未命名.md",
-    "未命名.canvas",
     "java/未命名.canvas",
-    "java/未命名.base",
     "java/java.md",
     "java",
     "未命名 1.md",
