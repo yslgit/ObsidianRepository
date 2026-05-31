@@ -1,38 +1,30 @@
-# ObsidianRepository
+# Obsidian 个人知识库
 
 #### 介绍
-ObsidianRepository 文件备份,随时可以拉取test111 22
+这是一个基于 Obsidian 构建的个人全栈知识库，涵盖了从 Java 架构、金融业务到 AI 投研的全方位知识体系。本仓库用于备份和管理我的学习笔记、项目经验及职业规划。
 
-#### 软件架构
-软件架构说明
+#### 知识库结构
+本知识库采用字母前缀分类法，确保目录清晰有序：
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- **A-成长路线图**: Java/Agent/金融专家路线规划、年度/月度计划及人生复盘
+- **B-技术知识库**: Java 全栈（JUC/JVM/Spring）、数据库、中间件、分布式架构及源码阅读
+- **C-金融业务库**: 资产托管、集中交易、QFII/QDII、SWIFT、ISO20022 及 FICC 业务
+- **D-项目经验库**: ACS/CTS/QFII 等核心系统实战记录、Bug 案例及架构设计复盘
+- **E-AI知识库**: Python、LLM、Agent 架构、RAG、LangChain 及 AI 工程化实践
+- **F-AI投研平台**: AI 投研产品的需求分析、技术架构、数据模型及 MVP 开发日志
+- **G-投资研究库**: ETF、银行券商、半导体消费等行业深度研究及交易体系
+- **H-职业成长库**: 面试题库、简历素材、技术分享材料及晋升跳槽准备
+- **I-工具资源库**: Git/Maven/IDEA/Cursor 等开发工具与效率软件的使用心得
+- **J-管理与架构思维库**: 架构方法论、技术选型、项目管理及商业思维沉淀
+- **Z-知识输出**: 每日记录、周/月总结、读书笔记及个人博客草稿
 
 #### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. **本地使用**: 使用 Obsidian 打开本文件夹即可开始记录和学习。
+2. **版本同步**: 本项目已接入 Git 版本控制，定期 Push 到 GitHub 进行云端备份。
+3. **文件规范**: 每个子目录下均包含 `.gitkeep` 文件，以确保空目录能被 Git 正常追踪。
 
 #### 参与贡献
-
 1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
+2.  新建 `Feat_xxx` 分支 (例如: `Feat_add-java-notes`)
+3.  提交代码/笔记
 4.  新建 Pull Request
-###### 
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
